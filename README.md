@@ -34,3 +34,7 @@ The webpage incorporates a responsive design using media queries in the CSS file
 Several interactive buttons are included on the webpage. They allow users to remove/add grid items and change the background. A button also triggers an alert on click.
 
 Feel free to explore and modify the code to suit your needs!
+
+## Screenshots
+
+![image](https://github.com/mahesh062003/Media-query-Grids-Flex/assets/92420298/73684e1f-bb00-4f86-8044-77975332916c)
